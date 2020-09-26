@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my profile: <a href="https://www.linkedin.com/in/matthew-sahara/">LinkedIn</a>
+
 <!--
 **saharama/saharama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
